@@ -2,7 +2,6 @@
  * @author - Peter Petrov (peter.petrov@quezter.org)
  * @link - https://github.com/shamatov
  */
-
 package solid.srp;
 
 import java.io.FileNotFoundException;
@@ -11,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Simple implementation of the
+ * Simple implementation of Journal
  */
 public class Journal {
     private final List<String> entities = new ArrayList<>();
